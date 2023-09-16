@@ -448,37 +448,37 @@
 
 | Criteria                           | Description                                                      | Rating |
 |------------------------------------|------------------------------------------------------------------|--------|
-| **Video**                          | 2min video of new functionality, showing a significant delta from prior. |       |
-| **Workload Distribution**          |  |      |
+| **Video**                          | 2min video of new functionality, showing a significant delta from prior. | 3      |
+| **Workload Distribution**          |  | 3     |
 | **GitHub Evidence**                |                                                              |        |
-| Number of commits in GH           |                                                                  |       |
-| Number of commits by different people in GH |                                                      |      |
-| Issues reports: there are many    |                                                                  |       |
-| Issues are being closed            |                                                                  |       |
-| DOI badge: exists in GH           |                                                                  |       |
+| Number of commits in GH           | https://github.com/usmanwardag/dollar_bot/graphs/contributors?from=2021-09-13&to=2021-12-23&type=c                                                                 | 3      |
+| Number of commits by different people in GH | https://github.com/usmanwardag/dollar_bot/graphs/contributors                                                     | 3     |
+| Issues reports: there are many    | https://github.com/usmanwardag/dollar_bot/issues                                                                 | 3      |
+| Issues are being closed            | https://github.com/usmanwardag/dollar_bot/issues?q=is%3Aissue+is%3Aclosed                                                                 | 3      |
+| DOI badge: exists in GH           |                                                                  | 3      |
 | **Documentation**                  |                                                              |        |
-| Docs: doco generated, format not ugly in GH |                                                       |       |
-| Docs: what - point descriptions of each class/function (in isolation) in GH | |  |
-| Docs: how - for common use cases X, Y, Z mini-tutorials showing worked examples on how to do X, Y, Z doc page entries |  |  |
-| Docs: why - docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing |  | |
-| Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code |  | |
+| Docs: doco generated, format not ugly in GH |                                                       | 0     |
+| Docs: what - point descriptions of each class/function (in isolation) in GH | https://github.com/sak007/MyDollarBot-BOTGo/blob/main/docs/code.md | 3 |
+| Docs: how - for common use cases X, Y, Z mini-tutorials showing worked examples on how to do X, Y, Z doc page entries | https://github.com/sak007/MyDollarBot-BOTGo/tree/main/docs | 3  |
+| Docs: why - docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing | https://github.com/usmanwardag/dollar_bot | 2 |
+| Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code | https://www.youtube.com/watch?v=aCjcT1CHAzU&ab_channel=SunehaBose | 3 |
 | **Code Quality**                   |                                                              |        |
-| Use of version control tools       |                                                                  |      |
-| Use of style checkers - config files in GH showing your config | | |
-| Use of code formatters - config files in GH showing your this formatter's config | |   |
-| Use of syntax checkers - config files in GH showing this checker's config | |    |
-| Use of code coverage - config files in GH |                        |      |
-| Other automated analysis tools - config files in GH |            |       |
+| Use of version control tools       |                                                                  | 3     |
+| Use of style checkers - config files in GH showing your config | | 0 |
+| Use of code formatters - config files in GH showing your this formatter's config | | 0   |
+| Use of syntax checkers - config files in GH showing this checker's config | (They claim on python IDE) | 3   |
+| Use of code coverage - config files in GH |                        | 3     |
+| Other automated analysis tools - config files in GH |            | 0      |
 | **Testing**                        |                                                              |        |
-| Test cases exist - dozens of tests and those test cases are more than 30% of the code base | |  |
-| Test cases are routinely executed - E.g. travis-com.com or github actions or something |  | 
+| Test cases exist - dozens of tests and those test cases are more than 30% of the code base | | 3 |
+| Test cases are routinely executed - E.g. travis-com.com or github actions or something | travis | 3 | 
 | **Collaboration**                  |                                                              |        |
-| The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up | | |
-| Issues are discussed before they are closed - even if you discuss in slack, need a summary statement here | | |
+| The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up |  https://github.com/usmanwardag/dollar_bot/blob/main/CONTRIBUTING.md | 3 |
+| Issues are discussed before they are closed - even if you discuss in slack, need a summary statement here |  https://github.com/usmanwardag/dollar_bot/issues?q=is%3Aissue+is%3Aclosed  | 3 |
 | Chat channel: exists - Link or screenshots |                      | -      |
-| Test cases: a large proportion of the issues related to handling failing cases. If a test case fails, open an issue and fix it | - |
+| Test cases: a large proportion of the issues related to handling failing cases. If a test case fails, open an issue and fix it | | 3 |
 | Evidence that the whole team is using the same tools: everyone can get to all tools and files | - |
-| Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people) | - |
+| Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people) | - | 3 |
 | Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer) | - |
 | Evidence that the members of the team are working across multiple places in the code base | | |
 | Short release cycles (hard to see in short projects) project members are committing often enough so that everyone can get your work | - |
