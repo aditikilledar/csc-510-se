@@ -106,7 +106,7 @@
 |15.4 | | Y|
 |15.5 | | Y|
 |15.6 | | N|
-|15.7 | | N|
+|15.7 | https://github.com/bhavesh242/GITS/blob/master/CITATION.md | Y|
 |16.1 | | N|
 |16.2 | | N|
 |16.3 | | N|
