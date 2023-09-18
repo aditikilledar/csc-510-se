@@ -5,11 +5,11 @@
 
 ## Scores
 ### Table of Contents
-1. GITS
-2. Teacher's Pet
+1. [GITS] (https://github.com/aditikilledar/csc-510-se/blob/main/Project1_Scores.md#project-gits)
+2. Teacher's Pet 
 3. Auto-Anki
 4. CheapBuy
-5. DollarBot
+5. [DollarBot] (https://github.com/aditikilledar/csc-510-se/blob/main/Project1_Scores.md#project-dollarbot)
 
 -----
 
