@@ -5,11 +5,11 @@
 
 ## Scores
 ### Table of Contents
-1. [GITS] (https://github.com/aditikilledar/csc-510-se/blob/main/Project1_Scores.md#project-gits)
-2. Teacher's Pet 
-3. Auto-Anki
-4. CheapBuy
-5. [DollarBot] (https://github.com/aditikilledar/csc-510-se/blob/main/Project1_Scores.md#project-dollarbot)
+1. [GITS](https://github.com/aditikilledar/csc-510-se/blob/main/Project1_Scores.md#project-gits)
+2. [Teacher's Pet](https://github.com/aditikilledar/csc-510-se/blob/main/Project1_Scores.md#project-teachers-pet)
+3. [Auto-Anki](https://github.com/aditikilledar/csc-510-se/blob/main/Project1_Scores.md#project-auto-anki)
+4. [CheapBuy](https://github.com/aditikilledar/csc-510-se/blob/main/Project1_Scores.md#project-cheapbuy)
+5. [DollarBot](https://github.com/aditikilledar/csc-510-se/blob/main/Project1_Scores.md#project-dollarbot)
 
 -----
 
