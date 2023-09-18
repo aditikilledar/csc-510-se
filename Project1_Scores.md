@@ -1,4 +1,16 @@
-# CSC-510-SE
+# Project 1
+
+#### Link to Essay https://github.com/aditikilledar/csc-510-se/blob/main/Project1_Essay.md
+
+## Scores
+### Table of Contents
+1. GITS
+2. Teacher's Pet
+3. Auto-Anki
+4. CheapBuy
+5. DollarBot
+
+-----
 
 # Project: [GITS](https://github.com/bhavesh242/GITS)
 
