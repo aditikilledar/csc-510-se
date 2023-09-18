@@ -1,6 +1,7 @@
 # Project 1
 
-#### Link to Essay https://github.com/aditikilledar/csc-510-se/blob/main/Project1_Essay.md
+#### Link to Essay: https://github.com/aditikilledar/csc-510-se/blob/main/Project1_Essay.md
+#### Link to Video: #TODO
 
 ## Scores
 ### Table of Contents
