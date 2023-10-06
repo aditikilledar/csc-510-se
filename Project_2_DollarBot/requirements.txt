@@ -1,0 +1,8 @@
+pyTelegramBotAPI
+pytest
+jproperties
+flake8
+matplotlib
+coverage
+pytest-mock
+python-telegram-bot-calendar
