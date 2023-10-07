@@ -1,0 +1,13 @@
+{
+    "6667973098": {
+        "data": [],
+        "budget": {
+            "overall": "1000.0",
+            "category": {
+                "Food": "200.0",
+                "Groceries": "250.0",
+                "Utilities": "150.0"
+            }
+        }
+    }
+}
